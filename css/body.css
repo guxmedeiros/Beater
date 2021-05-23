@@ -1,0 +1,49 @@
+@import url(bootstrap.min.css);
+@import url(config.css);
+@import url(global.css);
+@import url(responsive.css);
+
+:root {
+    --color-first: ;
+    --color-second: ;
+    --color-third: ;
+    --color-black: #000;
+    --color-white: #fff;
+}
+
+#header { 
+    width: 100%;
+    background-color: transparent;
+    transition: background ease-out .2s;
+}
+
+#header .navbar-collapse {
+    width: auto;
+}
+
+.img-fluid {
+    width: 35px;
+    height: 35px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+main {
+    flex: 1;
+    margin-top: 50px;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+footer {
+    margin-top: 50px;
+
+}
+
+footer a {
+    text-decoration: none;
+}

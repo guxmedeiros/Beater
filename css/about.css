@@ -1,0 +1,12 @@
+#slider {
+    margin: auto;
+}
+
+#slider .container{
+   justify-content: center;
+   text-align: center;
+}
+
+#slider .row {
+    margin-top: 15px;
+}

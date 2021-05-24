@@ -1,0 +1,20 @@
+section {
+    background-size: cover;
+    background-image: url(/img/waverunner.webp);
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    background-position: center;
+}
+
+.btn-primary{
+    margin-top: 25px;
+}
+
+.mr-auto img {
+    height: 16px;
+    padding-right: 5px;
+}
+
+.alt-font {
+    height: 10rem;
+}

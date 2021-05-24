@@ -14,3 +14,7 @@
 #cards {
     margin-top: 50px;
 }
+
+#cards h5 {
+    text-align: center;
+}

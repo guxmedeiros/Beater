@@ -9,17 +9,9 @@
     --color-third: ;
     --color-black: #000;
     --color-white: #fff;
+    scroll-behavior: smooth;
 }
 
-#header { 
-    width: 100%;
-    background-color: transparent;
-    transition: background ease-out .2s;
-}
-
-#header .navbar-collapse {
-    width: auto;
-}
 
 .img-fluid {
     width: 35px;
